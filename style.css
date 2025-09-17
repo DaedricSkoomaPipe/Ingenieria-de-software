@@ -58,12 +58,19 @@ ul{
 }
 
 ol{
+    background-color: beige;
     width: 80%;
     margin: auto;
     border-radius: 20px;
     padding: 20px;
 }
 
-ol{
-    background-color: beige;
+a{
+    background: rgb(0, 0, 69);
+    padding: 20px;
+    display: block;
+    margin: auto;
+    text-align: center;
+    width: fit-content;
+    border-radius: 20px;
 }
