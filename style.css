@@ -1,3 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+
 body{
     background-color: rgb(162, 160, 160);
+    font-family: "playfair Display";
 }
+
+h1, h2{
+    text-align: center;
+}
+
+img{
+display: block;
+margin: auto;
+border-radius: 50%; 
+
+}
+
+img:hover{
+    width: 200px;
+    height: 200px;
+    scale: 1.5;
+    transition: all 0.5s ease;
+    overflow: hidden;
+}
+
+
