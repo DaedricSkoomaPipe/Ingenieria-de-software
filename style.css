@@ -25,4 +25,45 @@ img:hover{
     overflow: hidden;
 }
 
+p{
+    text-align: center;
+    background-color: darkorange;
+    color: white;
+    margin:auto;
+    font-size: 22px;
+    padding: 20px;
+    border-radius: 8px;
+    
+}
 
+p:hover{
+    background-color: darkblue;
+}
+
+h3{
+    width: 80%;
+    margin: auto;
+    background-color: rgb(190, 189, 189);
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+ul{
+    width: 80%;
+    margin: auto;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: rgb(210, 208, 208);
+}
+
+ol{
+    width: 80%;
+    margin: auto;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+ol{
+    background-color: beige;
+}
